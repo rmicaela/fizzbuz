@@ -9,11 +9,11 @@ Pasos:
 -Clonarlo en su máquina local con mercurial (hg)
 -Desarrollar el programa FizzBuzz:
 -Realizar los commits y push respectivos al menos 4 commits +  2 merges:
- 	-revisión inicial
-	-agregar archivo README.md con enunciado, autor, instrucciones, etc.
-	-codificación inicial
-	-ajustes/correcciones
-	-comentarios
+ -revisión inicial
+-agregar archivo README.md con enunciado, autor, instrucciones, etc.
+-codificación inicial
+-ajustes/correcciones
+-comentarios
 -Ejecutarlo (mini demo)
 
 Se pide adicionalmente:
